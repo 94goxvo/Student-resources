@@ -70,13 +70,3 @@
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
 
-# 相关推荐
-
-**买电脑：**《[或许是最详细的学生购买笔记本购买参考](http://www.toutiao.com/i6430265970773721602/)》
-
-**如何科学提问：**《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
-
-**搜索引擎：** 为了你的身体健康、事业有成，请尽量**减少使用百度**的频率。
-
-**PPT 制作：**《[放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)》
-
