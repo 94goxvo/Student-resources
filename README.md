@@ -1,5 +1,3 @@
-![button-1](https://img.shields.io/badge/Student--resources-version%206-green.svg?style=flat)  ![button-2](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
-
 ![cover](https://raw.githubusercontent.com/ivmm/Student-resources/master/Student-resources-min.png)
 
 # 说明
@@ -81,7 +79,4 @@
 **搜索引擎：** 为了你的身体健康、事业有成，请尽量**减少使用百度**的频率。
 
 **PPT 制作：**《[放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)》
-
-
-作者博客：https://www.mf8.biz/
 
